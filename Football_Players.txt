@@ -1,0 +1,54 @@
+Olivier Giroud#AC Milan#Serie A#ATTACKER#20#
+Rafael Leao#AC Milan#Serie A#ATTACKER#20#
+Tonali#AC Milan#Serie A#MIDFIELDER#10#
+Theo Hernandez#AC Milan#Serie A#DEFENDER#20#
+Mike Maignan#AC Milan#Serie A#GOALKEEPER#10#
+Gabriel Martinelli#Arsenal#Premier League#ATTACKER#20#
+Gabriel Jesus#Arsenal#Premier League#ATTACKER#20#
+Martin Odegaard#Arsenal#Premier League#MIDFIELDER#20#
+Ben White#Arsenal#Premier League#DEFENDER#15#
+Aaron Ramsdale#Arsenal#Premier League#GOALKEEPER#10#
+Erling Haaland#Manchester City#Premier League#ATTACKER#40#
+De Bruyne#Manchester City#Premier League#MIDFIELDER#30#
+Phil Foden#Manchester City#Premier League#MIDFIELDER#25#
+Ruben Dias#Manchester City#Premier League#DEFENDER#20#
+Ederson#Manchester City#Premier League#GOALKEEPER#20#
+Lionel Messi#Paris Saint-Germain#Ligue 1#ATTACKER#30#
+Kylian Mbappe#Paris Saint-Germain#Ligue 1#ATTACKER#30#
+Marco Verratti#Paris Saint-Germain#Ligue 1#MIDFIELDER#15#
+Sergio Ramos#Paris Saint-Germain#Ligue 1#DEFENDER#10#
+Gianluigi Donnarumma#Paris Saint-Germain#Ligue 1#GOALKEEPER#15#
+Karim Benzema#Real Madrid#LaLiga#ATTACKER#35#
+Vinicius Junior#Real Madrid#LaLiga#ATTACKER#30#
+Luka Modric#Real Madrid#LaLiga#MIDFIELDER#30#
+Eder Militao#Real Madrid#LaLiga#DEFENDER#20#
+Thibaut Courtois#Real Madrid#LaLiga#GOALKEEPER#25#
+Robert Lewandowski#Barcelona#LaLiga#ATTACKER#25#
+Ousmane Dembele#Barcelona#LaLiga#ATTACKER#20#
+Raphinha#Barcelona#LaLiga#MIDFIELDER#15#
+Ronald Araujo#Barcelona#LaLiga#DEFENDER#15#
+Andre ter Stegen#Barcelona#LaLiga#GOALKEEPER#10#
+Leroy Sane#Bayern Munich#Bundesliga#ATTACKER#20#
+Serge Gnabry#Bayern Munich#Bundesliga#ATTACKER#15#
+Thomas Muller#Bayern Munich#Bundesliga#MIDFIELDER#15#
+Matthijs de Ligt#Bayern Munich#Bundesliga#DEFENDER#15#
+Yann Sommer#Bayern Munich#Bundesliga#GOALKEEPER#10#
+Mohamed Salah#Liverpool#Premier League#ATTACKER#35#
+Darwin Nunez#Liverpool#Premier League#ATTACKER#25#
+Van Dijk#Liverpool#Premier League#DEFENDER#25#
+Allison#Liverpool#Premier League#GOALKEEPER#20# 
+Thiago#Liverpool#Premier League#MIDFIELDER#25#
+Sebastien Haller#Borussia Dortmund#Bundesliga#ATTACKER#15#
+Marco Reus#Borussia Dortmund#Bundesliga#MIDFIELDER#20#
+Jude Bellingham#Borussia Dortmund#Bundesliga#MIDFIELDER#20#
+Mats Hummels#Borussia Dortmund#Bundesliga#DEFENDER#10#
+Gregor Kobel#Borussia Dortmund#Bundesliga#GOALKEEPER#10#
+Lautaro Martinez#Inter Milan#Serie A#ATTACKER#20#
+Romelu Lukaku#Inter Milan#Serie A#ATTACKER#20#
+Nicolo Barella#Inter Milan#Serie A#MIDFIELDER#15#
+Milan Skriniar#Inter Milan#Serie A#DEFENDER#10#
+Samir Handanovic#Inter Milan#Serie A#GOALKEEPER#5#
+Tawfek#Elghaba#Egyptian#DEFENDER#1#
+Ahmed Sabry Vallejo#Real Madrid#LaLiga#DEFENDER#5#
+ahmed#ddd#Laluga#GOALKEEPER#15#
+Ali Tarek#Real Madrid#LaLiga#ATTACKER#10#
